@@ -10,3 +10,4 @@ redis:7.0.10
 rabbitmq:management
 elasticsearch:7.9.2
 openjdk:8
+zendesk/maxwell
