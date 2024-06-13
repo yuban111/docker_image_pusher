@@ -5,3 +5,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python
+mysql
+redis:7.0.10
+rabbitmq:management
+elasticsearch:7.9.2
+zendesk/maxwell
+openjdk:8
